@@ -1,0 +1,55 @@
+### Node ###
+# Logs
+logs/
+*.log
+*.coverage
+*.test-results/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache/
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Build output directories
+build/
+dist/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# JetBrains IDEs (if using WebStorm/IntelliJ)
+.idea/

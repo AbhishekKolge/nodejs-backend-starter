@@ -1,0 +1,17 @@
+{
+  "name": "@abhishek_kolge/nodejs-backend-starter",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "nodejs-backend-starter": "./index.js"
+  },
+  "keywords": [],
+  "author": "Abhishek Kolge",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
